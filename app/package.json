@@ -1,0 +1,15 @@
+{
+  "name": "mov-inlamningsuppgift2",
+  "version": "1.0.0",
+  "description": "Enkel webapp för MOV inlämningsuppgift 2 – Docker + Docker Hub + Azure + GitHub Actions",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
